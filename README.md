@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basir Khan</h1>
-<h3 align="center">Code artist 🎨 | Passionate about open-source 🌐 | Crafting digital wonders one commit at a time 💻 | Building the future of technology 🚀 | Full Stack Devlope</h3>
+<h3 align="center">Code artist 🎨 | Passionate about open-source🌐 | Crafting digital wonders one commit at a time 💻 | Building the future of technology 🚀 | Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basirkhan418&label=Profile%20views&color=0e75b6&style=flat" alt="basirkhan418" /> </p>
 
