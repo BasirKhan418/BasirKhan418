@@ -1,36 +1,243 @@
-<h1 align="center">Hi 👋, I'm Basir Khan</h1>
-<h3 align="center">Code artist 🎨 | Passionate about open-source🌐 | Crafting digital wonders one commit at a time 💻 | Building the future of technology 🚀 | Full Stack Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basirkhan418&label=Profile%20views&color=0e75b6&style=flat" alt="basirkhan418" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=BASIR%20KHAN&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Architect%20%7C%203%C3%97%20Hackathon%20Winner&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basirkhan418" alt="basirkhan418" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on [Deployite](https://github.com/BasirKhan418/DeployLite.git)
+<div align="center">
 
-- 🌱 I’m currently learning **Devops,ReactNative**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+systems+that+scale+to+10K%2B+users+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes+%7C+Kafka+%7C+Redis;Cut+cloud+costs+by+40%25+in+production+%E2%9A%A1;Founder+%40+Devsomeware+%E2%80%94+500%2B+devs+%F0%9F%91%A5)](https://git.io/typing-svg)
 
-- 👯 I’m looking to collaborate on [CloudStudio](https://github.com/BasirKhan418/CloudStudio.git)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://basir-protfollio.netlify.app/](https://basir-protfollio.netlify.app/)
+---
 
-- 💬 Ask me about **anything**
+<div align="center">
 
-- 📫 How to reach me **khanbasir5555@gmail.com**
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   Node.js · PostgreSQL · Redis · Kafka · AWS · Docker · K8s      ║
+║   Distributed Systems · Event-Driven Architecture · DevOps       ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
-- 📄 Know about my experiences [https://basir-protfollio.netlify.app/](https://basir-protfollio.netlify.app/)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/basirkhan_786?t=94xxm1oihq3c31b09ee0_a&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/basirkhan_786?t=94xxm1oihq3c31b09ee0_a&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/basir-khan-5aa62b258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/basir-khan-5aa62b258/" height="30" width="40" /></a>
-<a href="https://discord.gg/basirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="basirkhan" height="30" width="40" /></a>
-</p>
+## ⚡ About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+```yaml
+name:       Basir Khan
+role:       Backend & Cloud Engineer
+location:   Bhubaneswar, India 🇮🇳
+education:  B.Tech CS @ Centurion University (CGPA 9.37 / 10)
+community:  Founder @ Devsomeware (500+ developers)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basirkhan418&show_icons=true&locale=en&layout=compact" alt="basirkhan418" /></p>
+currently:
+  - building:   DeployLite — AI-powered one-click cloud deployment platform
+  - learning:   Advanced Kubernetes, eBPF, platform engineering
+  - open-to:    Backend / Cloud roles & open-source collabs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basirkhan418&show_icons=true&locale=en" alt="basirkhan418" /></p>
+superpowers:
+  - Architected systems serving 10K+ concurrent users
+  - Cut AWS costs by 40% via Redis caching + right-sizing
+  - 3× Hackathon winner (incl. MLH)
+  - 99.9% uptime on production AWS Fargate workloads
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basirkhan418&" alt="basirkhan418" /></p>
+---
+
+## 🏗️ What I Actually Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 Backend Systems
+- **REST & GraphQL APIs** with Express / Spring Boot
+- **Event-driven pipelines** with Apache Kafka (100K+ events/day)
+- **Microservice architectures** with Docker & Kubernetes
+- **Auth systems** — JWT, OAuth2, RBAC
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud & Infrastructure
+- **AWS** — ECS, Fargate, S3, RDS, CloudFront, CloudWatch
+- **IaC** — Terraform, automated CI/CD via Jenkins
+- **Observability** — Prometheus, Grafana, structured logging
+- **Cost engineering** — Redis caching, task right-sizing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🤖 DeployLite — AI Cloud Deployment Platform</b> &nbsp; 🏆 Hackathon Winner</summary>
+<br>
+
+> One-click deployment for web apps, databases, WordPress, chatbots, and virtual machines — powered by LLM prompts.
+
+| Tech | Role |
+|------|------|
+| Next.js · Node.js · AWS ECS | Full-stack + infrastructure |
+| Docker · Kubernetes · Terraform | Containerisation & IaC |
+| LLM prompt engine | Natural-language → deployment config |
+
+**Key wins:**
+- 🔄 Real-time monitoring, webhooks, one-click rollback
+- 🌐 Unified dashboard to connect AWS / Azure / GCP accounts
+- ⚡ Handles multiple concurrent production deployments
+
+[![Repo](https://img.shields.io/badge/GitHub-DeployLite-a78bfa?style=flat-square&logo=github)](https://github.com/BasirKhan418/DeployLite)
+
+</details>
+
+<details>
+<summary><b>🔗 Scalable URL Shortener & Analytics</b></summary>
+<br>
+
+> Distributed link-shortening platform with real-time analytics, multi-region AWS deployment, and sub-50ms global latency.
+
+| Metric | Result |
+|--------|--------|
+| Daily requests | 100K+ |
+| Global latency | < 50ms |
+| Architecture | Kafka event-driven |
+
+**Stack:** Kafka · PostgreSQL · Redis · AWS ECS / S3 / CloudFront
+
+</details>
+
+<details>
+<summary><b>🛡️ Proctored Testing Platform</b></summary>
+<br>
+
+> Secure online assessment system with AI-assisted fraud detection, serving 10K+ users.
+
+- ✅ **99.9% uptime** on AWS Fargate
+- 🔍 Redis analytics for real-time fraud detection
+- 📦 Docker + Kubernetes auto-scaling
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-a78bfa?style=flat-square&logo=github)](https://github.com/BasirKhan418)
+
+</details>
+
+<details>
+<summary><b>🎓 AI-Driven LMS (Learning Platform)</b></summary>
+<br>
+
+> Microservice LMS for 1K+ concurrent users with LLM tutoring, live video, and automated assessments.
+
+- 📹 RTMP / HLS adaptive video streaming on AWS ECS
+- 🤖 LLM-based personalised tutoring + quiz generation
+- ⚡ Redis pub/sub workers for async video processing
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Data & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Observability & Frontend
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BasirKhan418&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasirKhan418&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BasirKhan418&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BasirKhan418&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Basir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BasirKhan418&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basir-khan-5aa62b258/)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/basirkhan_786)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://my-protfollio-omega.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanbasir5555@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/basirkhan)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+Build+Something+That+Scales&fontSize=22&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BasirKhan418&label=Profile+Views&color=a78bfa&style=flat-square" />
+  <br/>
+  <sub>⚡ Shipping distributed systems. One commit at a time.</sub>
+</div>
