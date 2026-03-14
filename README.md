@@ -58,16 +58,16 @@ superpowers:
 - **REST & GraphQL APIs** with Express / Spring Boot
 - **Event-driven pipelines** with Apache Kafka (100K+ events/day)
 - **Microservice architectures** with Docker & Kubernetes
-- **Auth systems** — JWT, OAuth2, RBAC
+- **Auth systems** - JWT, OAuth2, RBAC
 
 </td>
 <td width="50%">
 
 ### ☁️ Cloud & Infrastructure
-- **AWS** — ECS, Fargate, S3, RDS, CloudFront, CloudWatch
-- **IaC** — Terraform, automated CI/CD via Jenkins
-- **Observability** — Prometheus, Grafana, structured logging
-- **Cost engineering** — Redis caching, task right-sizing
+- **AWS** - ECS, Fargate, S3, RDS, CloudFront, CloudWatch
+- **IaC** - Terraform, automated CI/CD via Jenkins
+- **Observability** - Prometheus, Grafana, structured logging
+- **Cost engineering** - Redis caching, task right-sizing
 
 </td>
 </tr>
@@ -78,7 +78,7 @@ superpowers:
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🤖 DeployLite — AI Cloud Deployment Platform</b> &nbsp; 🏆 Hackathon Winner</summary>
+<summary><b>🤖 DeployLite - AI Cloud Deployment Platform</b> &nbsp; 🏆 Hackathon Winner</summary>
 <br>
 
 > One-click deployment for web apps, databases, WordPress, chatbots, and virtual machines — powered by LLM prompts.
